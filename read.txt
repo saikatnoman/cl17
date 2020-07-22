@@ -1,0 +1,2 @@
+grid e 12 er beshi nilei last er gula, mane 12 er porer gula niche neme jabe. but flex e 12 er beshi hoileo shomanvabe bhag hoye oi same line tatei thake.
+bootstrap er page theke example gula kora lagbe
